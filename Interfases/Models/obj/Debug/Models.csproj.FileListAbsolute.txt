@@ -1,0 +1,8 @@
+E:\C# GUI\Interfases\Models\bin\Debug\Models.exe.config
+E:\C# GUI\Interfases\Models\bin\Debug\Models.exe
+E:\C# GUI\Interfases\Models\bin\Debug\Models.pdb
+E:\C# GUI\Interfases\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\C# GUI\Interfases\Models\obj\Debug\Models.csproj.ResolveComReference.cache
+E:\C# GUI\Interfases\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\C# GUI\Interfases\Models\obj\Debug\Models.exe
+E:\C# GUI\Interfases\Models\obj\Debug\Models.pdb

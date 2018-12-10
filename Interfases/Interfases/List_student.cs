@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Interfases
+{
+    public partial class List_student : Form
+    {
+        public List_student()
+        {
+            InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Home_page_for_professor_ Главное_меню = new Home_page_for_professor_();
+            Главное_меню.ShowDialog();
+            Close();
+            Hide();
+            Home_page_for_admin_ Главноеменю = new Home_page_for_admin_();
+            Главноеменю.ShowDialog();
+            Close();
+        }
+    }
+}

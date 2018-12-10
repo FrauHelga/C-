@@ -1,0 +1,13 @@
+E:\C# GUI\Student\Student\bin\Release\Student.exe.config
+E:\C# GUI\Student\Student\bin\Release\Student.exe
+E:\C# GUI\Student\Student\bin\Release\Student.pdb
+E:\C# GUI\Student\Student\obj\Release\Student.Account.resources
+E:\C# GUI\Student\Student\obj\Release\Student.Form1.resources
+E:\C# GUI\Student\Student\obj\Release\Student.list_exam.resources
+E:\C# GUI\Student\Student\obj\Release\Student.List_items.resources
+E:\C# GUI\Student\Student\obj\Release\Student.list_professor.resources
+E:\C# GUI\Student\Student\obj\Release\Student.Properties.Resources.resources
+E:\C# GUI\Student\Student\obj\Release\Student.csproj.GenerateResource.Cache
+E:\C# GUI\Student\Student\obj\Release\Student.csproj.CoreCompileInputs.cache
+E:\C# GUI\Student\Student\obj\Release\Student.exe
+E:\C# GUI\Student\Student\obj\Release\Student.pdb

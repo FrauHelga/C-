@@ -1,0 +1,8 @@
+E:\C# GUI\Interfases\DataBase\bin\Debug\Database.mdf
+E:\C# GUI\Interfases\DataBase\bin\Debug\Database_log.ldf
+E:\C# GUI\Interfases\DataBase\bin\Debug\DataBase.exe.config
+E:\C# GUI\Interfases\DataBase\bin\Debug\DataBase.exe
+E:\C# GUI\Interfases\DataBase\bin\Debug\DataBase.pdb
+E:\C# GUI\Interfases\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\C# GUI\Interfases\DataBase\obj\Debug\DataBase.exe
+E:\C# GUI\Interfases\DataBase\obj\Debug\DataBase.pdb

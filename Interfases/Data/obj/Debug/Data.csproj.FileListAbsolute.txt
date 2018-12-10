@@ -1,0 +1,7 @@
+E:\C# GUI\Interfases\Data\bin\Debug\Data.exe.config
+E:\C# GUI\Interfases\Data\bin\Debug\Data.exe
+E:\C# GUI\Interfases\Data\bin\Debug\Data.pdb
+E:\C# GUI\Interfases\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\C# GUI\Interfases\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\C# GUI\Interfases\Data\obj\Debug\Data.exe
+E:\C# GUI\Interfases\Data\obj\Debug\Data.pdb

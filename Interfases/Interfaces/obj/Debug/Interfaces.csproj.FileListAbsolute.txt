@@ -1,0 +1,10 @@
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Interfaces.exe.config
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Interfaces.exe
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Interfaces.pdb
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Models.exe
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Models.pdb
+E:\C# GUI\Interfases\Interfaces\bin\Debug\Models.exe.config
+E:\C# GUI\Interfases\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+E:\C# GUI\Interfases\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\C# GUI\Interfases\Interfaces\obj\Debug\Interfaces.exe
+E:\C# GUI\Interfases\Interfaces\obj\Debug\Interfaces.pdb
